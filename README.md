@@ -1,61 +1,65 @@
 
 <h1 align="center">Hi 👋, I'm Ayushi Soni</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India 🇮🇳</h3>
+<h3 align="center">💻 MERN + TypeScript Developer | 🚀 Learning Next.js | ⚡ Passionate about Clean Code & UI</h3>
 
+---
+
+### 🌱 About Me
+- 🔭 I’m currently working on **MERN Stack & Full-Stack Web Apps**
+- 🌱 I’m learning **Next.js** and **Advanced Backend with Prisma ORM**
+- 💬 Ask me about **React, Express, Node.js, MongoDB, PostgreSQL, Prisma ORM, Tailwind CSS, TypeScript, JavaScript**
+- 📫 How to reach me: **ayushisonisvs2004@gmail.com**
+- ⚡ Fun fact: *I love combining beautiful design with scalable backend systems!*
+
+---
+
+### 🤝 Connect With Me
 <p align="center">
-  🌱 Currently learning <b>Next.js</b><br/>
-  💬 Ask me about <b>React, Node.js, Express, MongoDB, PostgreSQL, WebSocket</b><br/>
-  📫 Reach me at: <b>ayushisonisvs2004@gmail.com</b>
+  <a href="https://www.linkedin.com/in/ayushi-soni-35-/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ayushisonisvs2004@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/Ayushisoni_098/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 🌐 Connect with me  
+### 🧠 Tech Stack
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayushi-soni-35-/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ayushisonisvs2004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://leetcode.com/u/Ayushisoni_098/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-</p>
-
----
-
-### 🛠️ Languages and Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,postgres,prisma" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgres,prisma,tailwind,ts,js,html,css,git,github,vscode" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushi-devx&show_icons=true&theme=radical" alt="Ayushi's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushi-devx&theme=radical" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushi-devx&layout=compact&theme=radical" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayushi-devx&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushi-devx&theme=dark" />
 </p>
 
 ---
 
-### 🚀 Currently Exploring
-- Building full-stack apps with **Next.js 15** and **Prisma ORM**
-- Real-time communication with **WebSockets**
-- Scalable backend architecture using **PostgreSQL**
+### 📈 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushi-devx&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
+### ⚙️ Activity Graph
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushi-devx&theme=dracula&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushi-devx&theme=github-compact" />
 </p>
 
+---
+
+### 🏆 Badges & Achievements
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayushi-devx&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ayushi-devx&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/ayushi-devx?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/ayushi-devx?label=Stars&style=social" />
 </p>
